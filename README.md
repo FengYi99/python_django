@@ -1,2 +1,2 @@
 # python_django
-Python、Django项目
+Python_Django项目
